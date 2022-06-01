@@ -7,8 +7,8 @@
 
 ## Information
 
-- Lihat Script Doorlock [Disini](https://github.com/Chandra-Anonymouse03/Arduino/blob/main/doorlock.ino)
-- Lihat Script Penyiram Tanamam Otomatis [Disini](https://github.com/Chandra-Anonymouse03/Arduino/blob/main/penyiram-tanaman.ino)
+- Lihat Script Doorlock [Disini](https://github.com/ChandraSans/Arduino/blob/main/doorlock.ino)
+- Lihat Script Penyiram Tanamam Otomatis [Disini](https://github.com/ChandraSans/Arduino/blob/main/penyiram-tanaman.ino)
 
 ## Project
 Project Yang Sudah Dibuat :
